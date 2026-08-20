@@ -1,0 +1,546 @@
+# **GREEN VALLEY PARK – BLENDER ENVIRONMENT GENERATION PROMPT**
+
+## **PART 1 — MASTER SITE LAYOUT, TERRAIN, BOUNDARY, ENTRANCE, JOGGING TRACK & MAIN AXIS**
+
+---
+
+# PROJECT OVERVIEW
+
+Create a highly detailed, photorealistic modern public park environment named **Green Valley Park**. The design should resemble a premium municipal park located in the center of an urban neighborhood. The park should feel organized, luxurious, spacious, family-friendly, and suitable for real-world construction. Every object must follow realistic architectural proportions and engineering standards. Avoid exaggerated fantasy elements; instead, aim for a clean, elegant, and practical design.
+
+The overall environment should be modeled as a rectangular site with a clear central axis. The entrance is located on the southern edge, facing a main boulevard. A straight promenade runs through the center of the park, terminating at a circular fountain plaza. The park is divided symmetrically into left and right zones, creating a balanced landscape. Every path, tree, bench, and planting area should align with this axial composition. The terrain is completely flat with no slopes or elevation changes.
+
+---
+
+# OVERALL SITE DIMENSIONS
+
+Construct the site as a rectangle measuring approximately **90 meters wide (east to west)** and **120 meters long (south to north)**.
+
+Use Blender units where **1 Blender Unit = 1 meter**.
+
+The park occupies the entire site inside the decorative boundary fence.
+
+Reserve a 2-meter landscape buffer between the inside of the fence and the jogging track.
+
+The jogging track forms the first circulation ring inside the fence. Landscape beds fill the remaining space between the track and the fence.
+
+---
+
+# TERRAIN
+
+Create one continuous terrain mesh with no visible seams.
+
+Dimensions:
+
+* Width: 90 m
+* Length: 120 m
+* Thickness: 0.4 m
+
+The terrain should be perfectly level. Do not create hills, depressions, berms, or uneven ground.
+
+Top surface should consist of:
+
+* Lawn areas
+* Walkways
+* Flower beds
+* Playground safety flooring
+* Fountain plaza
+* Gazebo foundation
+
+Edge bevel:
+
+* 40 mm chamfer
+
+Subdivision:
+
+* Moderate density to allow smooth landscaping transitions.
+
+---
+
+# GROUND MATERIALS
+
+Grass areas should occupy approximately **65% of the park**.
+
+Grass characteristics:
+
+* Short ornamental turf
+* Uniform height (40–50 mm)
+* Healthy medium green
+* Dense coverage
+* No visible dirt patches
+* Slight variation in blade orientation for realism
+
+Walkways, plazas, and hardscape areas occupy the remaining **35%**.
+
+---
+
+# PARK ORIENTATION
+
+South Side:
+Main entrance.
+
+North Side:
+Rear landscape buffer.
+
+East Side:
+Secondary landscape zone.
+
+West Side:
+Secondary landscape zone.
+
+Everything inside the park is organized around a single central north–south axis.
+
+---
+
+# SITE ORGANIZATION
+
+Divide the park into the following major zones:
+
+1. Entrance Plaza
+2. Central Promenade
+3. Fountain Plaza
+4. Children's Playground (left rear quadrant)
+5. Gazebo Garden (right rear quadrant)
+6. Open Lawn (left front quadrant)
+7. Open Lawn (right front quadrant)
+8. Perimeter Jogging Track
+9. Landscape Buffer Along Fence
+
+No zone should overlap another. Maintain clean transitions using paved paths and planted borders.
+
+---
+
+# BOUNDARY FENCE
+
+Construct a continuous decorative wrought-iron fence surrounding the entire site.
+
+Height:
+2.2 meters
+
+Material:
+Powder-coated forged steel
+
+Color:
+Matte black
+
+Fence panels:
+
+* Length: 2.5 m each
+* Thickness: 40 mm vertical bars
+* Bar spacing: 120 mm
+* Horizontal rails: top, center, bottom
+* Decorative spear finials on every vertical bar
+
+No panel should intersect with columns.
+
+Each fence section bolts into the adjacent stone columns.
+
+---
+
+# STONE COLUMNS
+
+Place structural columns every 5 meters around the perimeter.
+
+Dimensions:
+
+* Width: 0.6 m
+* Depth: 0.6 m
+* Height: 2.8 m
+
+Material:
+Cream-colored limestone
+
+Surface:
+Smooth dressed stone with subtle horizontal joints every 300 mm.
+
+Top:
+Projecting decorative capstone with 50 mm overhang.
+
+At the base of each column:
+
+* Circular flower bed (1 m diameter)
+* Low shrubs
+* Decorative mulch
+
+Every alternate column contains a classic lantern fixture mounted at 2.2 m height.
+
+---
+
+# LANDSCAPE BUFFER
+
+Between the fence and the jogging track, create a continuous planting strip approximately **2 meters wide**.
+
+This strip contains:
+
+* Boxwood hedges
+* Seasonal flowering plants
+* Ornamental grasses
+* Decorative stones
+* Mulch
+
+Arrange planting in flowing organic curves rather than straight lines.
+
+Alternate between flowering and evergreen planting groups.
+
+Maintain a minimum 500 mm clearance from the jogging track.
+
+---
+
+# MAIN ENTRANCE
+
+Position the entrance precisely at the center of the southern boundary.
+
+Opening width:
+10 meters
+
+The entrance becomes the primary visual focus of the park.
+
+---
+
+# ENTRANCE COLUMNS
+
+Construct two monumental entrance pillars.
+
+Dimensions:
+
+* Width: 0.9 m
+* Depth: 0.9 m
+* Height: 4.5 m
+
+Material:
+Warm cream sandstone.
+
+Architectural style:
+Modern classical.
+
+Base:
+Three stepped plinths.
+
+Middle shaft:
+Smooth stone blocks.
+
+Top:
+Decorative cornice.
+
+Install a black Victorian lantern on the front face of each pillar.
+
+---
+
+# MAIN GATE
+
+Double-leaf ornamental wrought iron gate.
+
+Height:
+3.8 meters
+
+Width:
+8 meters
+
+Material:
+Forged steel
+
+Finish:
+Matte black
+
+Decorative features:
+
+* Scrollwork
+* Circular medallions
+* Vertical spear finials
+* Gold decorative accents
+* Central emblem
+
+Gate opens inward.
+
+---
+
+# ENTRANCE ARCH
+
+Create a shallow curved steel arch spanning between the two entrance pillars.
+
+Material:
+Painted structural steel.
+
+Color:
+Dark forest green.
+
+Across the center of the arch place raised metallic letters:
+
+**GREEN VALLEY PARK**
+
+Letter height:
+450 mm
+
+Material:
+Brushed gold aluminum.
+
+Font:
+Bold serif.
+
+---
+
+# ENTRANCE PLAZA
+
+Immediately inside the gate create a welcoming plaza.
+
+Dimensions:
+12 m × 18 m
+
+Surface:
+Large granite paving slabs.
+
+Color:
+Light gray.
+
+Pattern:
+Running bond with 10 mm joints.
+
+Border:
+Dark charcoal granite strip.
+
+The plaza should be perfectly centered with the entrance.
+
+---
+
+# ENTRANCE LANDSCAPING
+
+On both sides of the entrance plaza create identical planting compositions.
+
+Include:
+
+Low hedges.
+
+Pink flowering shrubs.
+
+Lavender rows.
+
+White roses.
+
+Decorative ornamental grasses.
+
+Maintain perfect symmetry.
+
+---
+
+# PARK INFORMATION SIGN
+
+Place a freestanding information board to the right side of the entrance.
+
+Dimensions:
+1.8 m × 1.2 m
+
+Material:
+Bronze frame.
+
+Glass front.
+
+Contains:
+Park map.
+
+Rules.
+
+Emergency contacts.
+
+---
+
+# MAIN PROMENADE
+
+The central promenade begins immediately after the entrance plaza.
+
+Length:
+Approximately 70 meters.
+
+Width:
+5 meters.
+
+Material:
+Light gray granite pavers.
+
+Pattern:
+Running bond.
+
+Joint spacing:
+8 mm.
+
+Edge border:
+Dark gray granite strips.
+
+The promenade should be perfectly straight.
+
+It becomes the primary circulation route.
+
+---
+
+# PROMENADE LANDSCAPING
+
+On both sides of the promenade install:
+
+Low hedges.
+
+Flower beds.
+
+Benches.
+
+Lamp posts.
+
+Decorative trees.
+
+Everything should mirror from left to right.
+
+Maintain equal spacing.
+
+---
+
+# BENCH PLACEMENT
+
+Place benches every 18 meters.
+
+Each bench:
+
+* Faces inward toward the promenade.
+* Positioned 1.2 m from the path edge.
+* Resting on small concrete pads.
+
+Material:
+Oak wood slats with black cast-iron frames.
+
+---
+
+# STREET LIGHTS
+
+Install Victorian-style lamp posts along both sides of the promenade.
+
+Height:
+3.5 meters.
+
+Spacing:
+12 meters.
+
+Material:
+Cast iron.
+
+Color:
+Matte black.
+
+Light source:
+Warm white LED.
+
+Mount on circular stone bases.
+
+---
+
+# PERIMETER JOGGING TRACK
+
+Inside the landscape buffer create a continuous jogging track.
+
+Width:
+2.5 meters.
+
+Shape:
+Rounded rectangle following the park boundary.
+
+Corners:
+Smooth 5-meter radius curves.
+
+Material:
+EPDM rubber athletic surface.
+
+Color:
+Deep terracotta red.
+
+Lane markings:
+White edge lines.
+
+Expansion joints every 15 meters.
+
+---
+
+# JOGGING TRACK LANDSCAPING
+
+Between the jogging track and the internal park areas create another planting strip approximately 1 meter wide.
+
+Planting includes:
+
+Low ornamental shrubs.
+
+Decorative grasses.
+
+Seasonal flowers.
+
+Occasional flowering trees.
+
+This creates a green buffer separating pedestrians from runners.
+
+---
+
+# TREE PLACEMENT ALONG TRACK
+
+Plant deciduous shade trees every 7 meters.
+
+Tree specifications:
+
+Height:
+8–10 meters.
+
+Trunk diameter:
+300–400 mm.
+
+Canopy diameter:
+4–5 meters.
+
+Alternate every third tree with a flowering cherry tree featuring a wider canopy and soft pink blossoms.
+
+Each tree sits within a circular mulch bed edged with natural stone.
+
+---
+
+# SECONDARY PATH CONNECTIONS
+
+Reserve connection points from the jogging track toward:
+
+* Playground
+* Gazebo
+* Fountain plaza
+* Open lawns
+
+Do not construct these paths yet; only leave clear junction locations for future path integration.
+
+---
+
+# VISUAL AXIS
+
+Standing at the main gate, the visitor should immediately see:
+
+1. The entrance plaza
+2. The central promenade
+3. The fountain plaza centered in the distance
+
+No trees, shrubs, or structures should block this primary view corridor.
+
+---
+
+# SPATIAL BALANCE
+
+Maintain perfect symmetry for all major hardscape elements.
+
+The left and right halves of the park should feel visually balanced, while allowing minor variation in planting species for a natural appearance.
+
+Open lawns should remain uncluttered, ensuring clear sightlines and flexible recreational space.
+
+---
+
+# MODELING GUIDELINES
+
+* Keep all geometry clean and manifold.
+* Use real-world proportions for every asset.
+* Separate major elements into individual Blender collections (Terrain, Fence, Gate, Promenade, Jogging Track, Landscape, Lighting, Furniture).
+* Maintain consistent object origins and naming conventions.
+* Use modular assets for repeating elements such as fence panels, benches, lamp posts, and columns.
+* Ensure paths meet cleanly at intersections with no overlapping geometry.
+* Leave adequate space for the fountain, playground, gazebo, and future landscape features described in subsequent parts.
+
+---
+
+**End of Part 1.**
+
+The next section, **Part 2**, will focus exclusively on the **children's playground**, breaking down every component—from the play tower and slides to monkey bars, safety surfacing, structural supports, and materials—with engineering-level detail suitable for Blender modeling.

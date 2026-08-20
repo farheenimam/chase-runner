@@ -1,0 +1,36 @@
+# Dependencies
+node_modules/
+
+# Build and coverage output
+dist/
+coverage/
+.vite/
+
+# Local runtime output
+shot.png
+*.log
+
+# Environment and local secrets
+.env
+.env.*
+!.env.example
+
+# Operating system and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Local agent/tool configuration
+.claude/settings.local.json
+
+# Blender source files and backups
+*.blend
+*.blend1
+*.fbx
+*.obj
+*.zip
+backup_before_rename_*.blend
+
+# Generated/exported map duplicate at repository root
+/rang_chase_map.glb

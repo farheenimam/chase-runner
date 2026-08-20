@@ -1,0 +1,758 @@
+# **GREEN VALLEY PARK – BLENDER ENVIRONMENT GENERATION PROMPT**
+
+# **PART 3 — CENTRAL FOUNTAIN PLAZA, GAZEBO, OPEN LAWNS, SECONDARY WALKWAYS & RELAXATION ZONES**
+
+---
+
+# CENTRAL PARK ORGANIZATION
+
+The central portion of the park serves as the primary gathering space and visual anchor. It is organized around a large circular fountain plaza connected by a straight promenade from the main entrance. From this plaza, secondary walkways radiate toward the playground, gazebo, lawns, and jogging track. The design should emphasize symmetry, open sightlines, and easy pedestrian circulation.
+
+The fountain plaza should feel spacious and elegant, acting as the heart of the park where visitors naturally gather, rest, and orient themselves.
+
+---
+
+# CENTRAL FOUNTAIN PLAZA
+
+## Overall Layout
+
+Position the fountain plaza exactly at the intersection of the park's central north–south axis and the east–west circulation axis.
+
+Overall plaza diameter:
+**20 meters**
+
+Shape:
+Perfect circle.
+
+Surface:
+Premium natural stone paving.
+
+The paving pattern should be radial, with concentric circular bands surrounding the fountain.
+
+The entire plaza must be perfectly level.
+
+---
+
+# PAVING DESIGN
+
+Material:
+Flamed granite.
+
+Primary color:
+Light warm gray.
+
+Accent bands:
+Dark charcoal granite.
+
+Stone size:
+600 × 600 mm.
+
+Joint width:
+6 mm.
+
+Outer circular border:
+250 mm wide dark granite ring.
+
+The paving should radiate outward from the fountain, creating a visual focal point.
+
+---
+
+# FOUNTAIN FOUNDATION
+
+Construct a reinforced circular concrete foundation below the paving.
+
+Diameter:
+10 meters.
+
+Thickness:
+500 mm.
+
+No foundation should be visible.
+
+---
+
+# FOUNTAIN BASIN
+
+Shape:
+Perfect circle.
+
+Outside diameter:
+8 meters.
+
+Wall thickness:
+350 mm.
+
+Wall height:
+700 mm.
+
+Material:
+Cream limestone.
+
+Top coping:
+Rounded polished limestone.
+
+Inner basin finish:
+Smooth waterproof blue mosaic tiles.
+
+Water depth:
+350 mm.
+
+---
+
+# CENTRAL FOUNTAIN STRUCTURE
+
+The fountain should consist of **three circular tiers** stacked concentrically.
+
+### Lower Tier
+
+Diameter:
+2.8 meters.
+
+Height:
+500 mm.
+
+Material:
+Cream limestone.
+
+Water overflows uniformly around the perimeter.
+
+---
+
+### Middle Tier
+
+Diameter:
+1.8 meters.
+
+Height:
+450 mm.
+
+Position:
+Centered above lower tier.
+
+Overflow:
+Continuous sheet of water.
+
+---
+
+### Upper Tier
+
+Diameter:
+900 mm.
+
+Height:
+400 mm.
+
+Top ornament:
+Decorative carved stone finial.
+
+Water emerges from the center and cascades down through all three levels.
+
+---
+
+# WATER JETS
+
+Install one central vertical jet.
+
+Height:
+Approximately 3 meters.
+
+Surround the central jet with **12 evenly spaced smaller jets** angled inward.
+
+Water should fall naturally into the basin without splashing beyond the coping.
+
+---
+
+# FOUNTAIN LIGHTING
+
+Embed waterproof LED uplights within the basin.
+
+Light color:
+Warm white.
+
+Place one light beneath each water jet.
+
+Additional recessed lights should illuminate each fountain tier from below.
+
+---
+
+# FOUNTAIN LANDSCAPING
+
+Around the fountain create a **2-meter-wide circular planting ring**.
+
+Plant species:
+
+White roses.
+
+Lavender.
+
+Purple salvia.
+
+Yellow marigolds.
+
+Low boxwood hedges.
+
+Maintain plants below **600 mm** in height to preserve visibility.
+
+Border the planting bed with natural stone edging.
+
+---
+
+# FOUNTAIN SEATING
+
+Position **eight identical benches** equally spaced around the fountain plaza.
+
+Orientation:
+Facing the fountain.
+
+Distance from fountain edge:
+3 meters.
+
+Bench spacing should create balanced circulation around the plaza.
+
+---
+
+# FOUNTAIN LIGHT POLES
+
+Install **eight decorative Victorian lamp posts** around the plaza.
+
+Height:
+3.8 meters.
+
+Material:
+Cast iron.
+
+Finish:
+Matte black.
+
+Glass:
+Clear.
+
+Light temperature:
+3000K warm white.
+
+Arrange them symmetrically between benches.
+
+---
+
+# SECONDARY WALKWAYS
+
+Four major secondary paths extend from the fountain plaza.
+
+North:
+Toward gazebo.
+
+South:
+Toward entrance.
+
+West:
+Toward playground.
+
+East:
+Toward open lawn and jogging track.
+
+---
+
+## Path Dimensions
+
+Width:
+2.8 meters.
+
+Material:
+Light gray granite pavers.
+
+Border:
+Dark charcoal granite strip.
+
+Joint spacing:
+6 mm.
+
+The paths should gently curve where necessary to soften the landscape.
+
+---
+
+# INTERSECTION DETAILS
+
+Where paths meet the fountain plaza, create subtle circular paving transitions.
+
+No sharp 90-degree intersections.
+
+Use smooth radii.
+
+---
+
+# OPEN LAWNS
+
+Two large open lawns occupy the southwest and southeast quadrants of the park.
+
+Each lawn should measure approximately:
+
+24 × 28 meters.
+
+Grass:
+Premium Bermuda turf.
+
+Height:
+45 mm.
+
+Color:
+Rich medium green.
+
+The lawns should remain mostly unobstructed to allow picnics, informal games, and public gatherings.
+
+---
+
+# LAWN EDGES
+
+Separate lawns from walkways using:
+
+100 mm granite edging.
+
+Low ornamental grasses.
+
+Flower borders.
+
+Maintain crisp clean curves.
+
+---
+
+# TREE PLACEMENT
+
+Within each lawn, place **five ornamental trees**.
+
+Species:
+
+Japanese Maple.
+
+Flowering Cherry.
+
+Red Maple.
+
+Spacing:
+Minimum 8 meters between trunks.
+
+Tree height:
+6–8 meters.
+
+Trunk diameter:
+300 mm.
+
+Canopy diameter:
+4–5 meters.
+
+The trees should be arranged asymmetrically while maintaining overall visual balance.
+
+---
+
+# SHADE CIRCLES
+
+Around each tree, create a circular mulch bed.
+
+Diameter:
+1.2 meters.
+
+Border:
+Natural stone.
+
+Mulch:
+Dark brown bark.
+
+---
+
+# GAZEBO ZONE
+
+The gazebo occupies the **northeast quadrant** of the park.
+
+It acts as a quiet seating and relaxation area.
+
+Surround it with lush planting while maintaining open views toward the fountain.
+
+---
+
+# GAZEBO FOUNDATION
+
+Shape:
+Regular octagon.
+
+Overall diameter:
+8 meters.
+
+Foundation thickness:
+250 mm reinforced concrete.
+
+Finish:
+Natural stone perimeter.
+
+---
+
+# GAZEBO FLOOR
+
+Material:
+Hardwood decking.
+
+Board width:
+150 mm.
+
+Board thickness:
+35 mm.
+
+Pattern:
+Radial.
+
+Color:
+Dark walnut.
+
+Deck height:
+250 mm above ground.
+
+---
+
+# GAZEBO STRUCTURE
+
+Support Columns:
+Eight timber columns.
+
+Column dimensions:
+250 × 250 mm.
+
+Height:
+3.2 meters.
+
+Material:
+Solid laminated hardwood.
+
+Color:
+Dark walnut stain.
+
+Each column rests on a decorative stone pedestal.
+
+---
+
+# GAZEBO ROOF
+
+Shape:
+Octagonal pyramid.
+
+Pitch:
+35°.
+
+Material:
+Wood shingles.
+
+Color:
+Dark brown.
+
+Roof overhang:
+600 mm.
+
+Install exposed timber rafters beneath the roof.
+
+The roof apex should feature a decorative finial.
+
+---
+
+# GAZEBO INTERIOR
+
+Install continuous built-in wooden seating around the inside perimeter.
+
+Seat height:
+450 mm.
+
+Seat depth:
+500 mm.
+
+Centerpiece:
+One circular wooden table.
+
+Diameter:
+1.2 meters.
+
+Provide enough circulation around the table.
+
+---
+
+# GAZEBO LIGHTING
+
+Suspend one decorative lantern from the roof center.
+
+Warm white.
+
+Additional recessed floor lights around the perimeter.
+
+---
+
+# GAZEBO GARDEN
+
+Create a circular landscape surrounding the gazebo.
+
+Radius:
+5 meters beyond the structure.
+
+Planting includes:
+
+Lavender.
+
+White hydrangeas.
+
+Pink roses.
+
+Boxwood.
+
+Ornamental grasses.
+
+Groundcover plants.
+
+Use curved planting beds.
+
+---
+
+# GAZEBO WALKWAYS
+
+Four short paths connect the gazebo to:
+
+Main fountain plaza.
+
+Jogging track.
+
+Open lawn.
+
+Northern landscape zone.
+
+Each path:
+2 meters wide.
+
+Curved geometry.
+
+Granite paving.
+
+---
+
+# PICNIC AREA
+
+Near the gazebo create a small picnic zone.
+
+Area:
+8 × 8 meters.
+
+Surface:
+Grass.
+
+Install:
+
+Three wooden picnic tables.
+
+Two BBQ stands (decorative).
+
+Waste bins.
+
+Drinking fountain.
+
+Maintain generous spacing between tables.
+
+---
+
+# RELAXATION SEATING
+
+Distribute additional benches throughout the lawns and gazebo area.
+
+Minimum:
+
+12 benches.
+
+Spacing:
+Approximately every 15–20 meters.
+
+Orient benches toward:
+
+Fountain.
+
+Lawns.
+
+Gardens.
+
+Gazebo.
+
+---
+
+# FLOWER GARDENS
+
+Create multiple curved flower islands.
+
+Species:
+
+White lilies.
+
+Purple salvia.
+
+Pink roses.
+
+Lavender.
+
+Marigolds.
+
+Red begonias.
+
+Arrange plants by height:
+
+Tallest at rear.
+
+Shortest at front.
+
+---
+
+# HEDGES
+
+Material:
+Boxwood.
+
+Height:
+500 mm.
+
+Trimmed into smooth flowing curves.
+
+Used around:
+
+Gazebo.
+
+Fountain.
+
+Path edges.
+
+Lawn borders.
+
+---
+
+# SCULPTURES
+
+Install one contemporary stone sculpture near the eastern lawn.
+
+Height:
+2.2 meters.
+
+Material:
+White marble.
+
+Abstract flowing form.
+
+Mounted on a square granite pedestal.
+
+---
+
+# DRINKING FOUNTAINS
+
+Install two accessible drinking fountains.
+
+Material:
+Brushed stainless steel.
+
+Height:
+900 mm.
+
+One near gazebo.
+
+One near fountain.
+
+---
+
+# WASTE BINS
+
+Install decorative waste bins every 20 meters.
+
+Material:
+Black powder-coated steel.
+
+Lid:
+Domed.
+
+---
+
+# BICYCLE PARKING
+
+Near the entrance to the gazebo area install a small bicycle rack.
+
+Capacity:
+10 bicycles.
+
+Material:
+Galvanized steel.
+
+---
+
+# MATERIALS
+
+Fountain:
+Cream limestone.
+
+Water:
+Blue reflective surface.
+
+Walkways:
+Granite.
+
+Gazebo:
+Dark hardwood.
+
+Roof:
+Wood shingles.
+
+Benches:
+Oak wood.
+
+Edging:
+Granite.
+
+Flower Beds:
+Natural soil with bark mulch.
+
+Trees:
+Realistic bark and dense foliage.
+
+---
+
+# COLOR PALETTE
+
+Grass:
+Rich green.
+
+Walkways:
+Light gray.
+
+Edging:
+Dark charcoal.
+
+Gazebo:
+Dark walnut brown.
+
+Roof:
+Brown shingles.
+
+Fountain:
+Cream stone.
+
+Flowers:
+White, pink, purple, yellow, red.
+
+Lamp Posts:
+Matte black.
+
+Benches:
+Natural oak.
+
+Water:
+Clear blue.
+
+---
+
+# MODELING RULES
+
+* Maintain clean topology with separate objects for fountain tiers, basin, benches, gazebo columns, roof, paths, and planting beds.
+* Apply realistic bevels to all exposed edges.
+* Ensure all paths connect seamlessly with no overlapping geometry.
+* Use modular assets for benches, lamp posts, and planters to simplify scene management.
+* Keep the central axis unobstructed, preserving clear views from the entrance to the fountain.
+* Name objects consistently (e.g., `Fountain_Base`, `Fountain_Tier01`, `Gazebo_Roof`, `Bench_Fountain_01`, `Tree_Maple_03`, `Path_East_01`) for an organized Blender project.
+
+---
+
+**End of Part 3.**
+
+**Part 4** should complete the environment by covering **all trees, shrubs, flower beds, park furniture, entrance details, signage, lighting system, Blender collection hierarchy, materials, and final rendering setup**, tying every element together into a production-ready scene.

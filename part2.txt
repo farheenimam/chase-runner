@@ -1,0 +1,756 @@
+# **GREEN VALLEY PARK – BLENDER ENVIRONMENT GENERATION PROMPT**
+
+# **PART 2 — CHILDREN'S PLAYGROUND (DETAILED MODELING SPECIFICATION)**
+
+---
+
+# PLAYGROUND OVERVIEW
+
+Create a premium municipal children's playground located in the **northwest quadrant of Green Valley Park**. The playground should appear professionally designed, safe, spacious, and suitable for children aged **3–12 years**. The design should match the reference image, with colorful equipment, rubber safety surfacing, landscaped edges, and open circulation around the play structures.
+
+The playground occupies an area approximately **26 meters (east–west) × 22 meters (north–south)**.
+
+It is surrounded by low hedges and flower beds, but remains visually open to the rest of the park.
+
+The playground should be divided into four functional zones:
+
+1. Main Play Tower
+2. Climbing Zone
+3. Swing & Activity Zone
+4. Toddler Play Zone
+
+Maintain at least **2 meters of clear safety space** around all equipment.
+
+---
+
+# PLAYGROUND FOUNDATION
+
+The entire playground sits on a perfectly level concrete slab.
+
+Dimensions:
+
+* Width: 26 m
+* Length: 22 m
+* Thickness: 200 mm
+
+Above the slab install a continuous EPDM rubber safety flooring.
+
+---
+
+# SAFETY FLOORING
+
+Material:
+High-density EPDM rubber.
+
+Thickness:
+50 mm.
+
+Color layout should be playful but organized.
+
+Create large flowing shapes instead of random patches.
+
+Suggested color distribution:
+
+* 35% Bright Blue
+* 25% Green
+* 20% Yellow
+* 20% Orange
+
+Avoid sharp geometric transitions.
+
+Blend colors using large curved forms.
+
+The flooring extends beneath every piece of equipment with a **minimum 2-meter safety buffer** beyond the equipment footprint.
+
+---
+
+# MAIN PLAY TOWER
+
+This is the centerpiece of the playground.
+
+Position:
+Slightly left of center within the playground.
+
+Overall footprint:
+6 m × 6 m
+
+Overall height:
+4.8 meters
+
+---
+
+## SUPPORT STRUCTURE
+
+Construct the tower using **four cylindrical steel support columns**.
+
+Column diameter:
+180 mm
+
+Column height:
+4 meters
+
+Material:
+Powder-coated galvanized steel.
+
+Color:
+Bright royal blue.
+
+Each column is anchored to the concrete slab using visible steel base plates and anchor bolts.
+
+The spacing between columns is approximately **2.5 meters** center-to-center.
+
+---
+
+## PLATFORM
+
+The elevated platform is located **1.6 meters above ground level**.
+
+Dimensions:
+2.5 m × 2.5 m
+
+Material:
+Recycled plastic composite decking with anti-slip texture.
+
+Color:
+Dark charcoal gray.
+
+Thickness:
+50 mm
+
+Edge protection:
+Rounded plastic trim.
+
+Install drainage gaps of approximately **5 mm** between decking boards.
+
+---
+
+# MAIN ROOF
+
+Construct a four-sided pyramid roof above the platform.
+
+Material:
+UV-resistant HDPE plastic.
+
+Color:
+Bright pink.
+
+Roof thickness:
+25 mm
+
+Roof overhang:
+300 mm on all sides.
+
+Slope angle:
+35°
+
+At the apex place a decorative **blue conical cap**.
+
+Height of cap:
+400 mm
+
+On top of the cap mount a **small triangular yellow flag** attached to a thin stainless steel pole.
+
+---
+
+# ACCESS LADDER
+
+Install one straight climbing ladder at the front.
+
+Width:
+700 mm
+
+Length:
+1.8 meters
+
+Side rails:
+Blue steel tubing
+
+Steps:
+Yellow textured aluminum rungs.
+
+Number of steps:
+8
+
+Spacing:
+220 mm
+
+The ladder should incline at approximately **70 degrees**.
+
+---
+
+# PRIMARY SLIDE
+
+Position:
+Front-right side of the tower.
+
+Type:
+Straight slide.
+
+Overall length:
+3.5 meters
+
+Platform height:
+1.6 meters
+
+Slide width:
+700 mm
+
+Material:
+Rotomolded polyethylene.
+
+Color:
+Bright red.
+
+Side walls:
+150 mm high.
+
+Surface:
+Gloss finish.
+
+Exit curve:
+Gentle 15° upward curve.
+
+Landing area:
+Additional rubber flooring.
+
+---
+
+# SECONDARY CURVED SLIDE
+
+Position:
+Rear-left side.
+
+Type:
+Curved open slide.
+
+Length:
+4 meters
+
+Radius:
+Smooth spiral curve.
+
+Material:
+Rotomolded plastic.
+
+Color:
+Bright red.
+
+Side walls:
+180 mm
+
+Support:
+Blue steel posts beneath slide.
+
+---
+
+# TODDLER SLIDE
+
+Position:
+Front-left corner.
+
+Platform height:
+800 mm
+
+Length:
+2 meters
+
+Material:
+Plastic.
+
+Color:
+Bright yellow.
+
+Designed for children under six.
+
+---
+
+# GUARD RAILS
+
+Install guardrails around all elevated platforms.
+
+Height:
+900 mm
+
+Material:
+Powder-coated steel.
+
+Color:
+Blue.
+
+Spacing between rails:
+Less than 100 mm for child safety.
+
+Rounded edges only.
+
+---
+
+# CLIMBING WALL
+
+Install one climbing wall on the rear face of the tower.
+
+Height:
+1.6 meters
+
+Width:
+1.2 meters
+
+Material:
+Textured HDPE panel.
+
+Color:
+Dark gray.
+
+Install colorful climbing holds.
+
+Colors:
+
+Red
+
+Blue
+
+Green
+
+Yellow
+
+Each hold secured with visible bolts.
+
+---
+
+# MONKEY BARS
+
+Position:
+Adjacent to the tower.
+
+Overall dimensions:
+
+Length:
+4 meters
+
+Width:
+1 meter
+
+Height:
+2.2 meters
+
+Support posts:
+Blue steel.
+
+Horizontal bars:
+Yellow powder-coated steel.
+
+Bar spacing:
+300 mm.
+
+Bar diameter:
+35 mm.
+
+---
+
+# CLIMBING ARCH
+
+Position:
+Beside monkey bars.
+
+Overall width:
+2 meters
+
+Height:
+1.5 meters
+
+Material:
+Steel tubing.
+
+Color:
+Light gray.
+
+Curved geometry.
+
+Contains rope climbing net.
+
+Rope material:
+Steel-core nylon rope.
+
+Color:
+Black.
+
+Connections:
+Orange plastic nodes.
+
+---
+
+# SWING SET
+
+Position:
+East side of playground.
+
+Frame:
+A-frame steel structure.
+
+Height:
+2.6 meters
+
+Width:
+4.5 meters
+
+Color:
+Blue.
+
+Install two standard belt swings.
+
+Seat material:
+Black rubber.
+
+Chains:
+Stainless steel.
+
+Install one toddler bucket swing.
+
+Color:
+Yellow.
+
+---
+
+# SPRING RIDERS
+
+Place three spring riders near toddler zone.
+
+Shapes:
+
+Horse
+
+Duck
+
+Car
+
+Material:
+HDPE panels.
+
+Colors:
+Red
+
+Yellow
+
+Blue
+
+Mounted on heavy-duty galvanized springs.
+
+---
+
+# SEE-SAW
+
+Install one four-seat see-saw.
+
+Length:
+3 meters
+
+Material:
+Steel frame.
+
+Seats:
+Yellow plastic.
+
+Handles:
+Blue.
+
+Shock absorbers beneath ends.
+
+---
+
+# SPINNER
+
+Install one rotating play spinner.
+
+Diameter:
+1.5 meters
+
+Platform:
+Rubber-coated steel.
+
+Color:
+Green.
+
+Center pole:
+Blue.
+
+---
+
+# SHADE STRUCTURES
+
+Install tensile fabric shade sails over toddler area.
+
+Three triangular sails.
+
+Material:
+UV-resistant fabric.
+
+Colors:
+Blue
+
+Yellow
+
+Orange
+
+Height:
+3.5 meters.
+
+Supported by steel poles.
+
+---
+
+# PLAYGROUND FENCE
+
+Do NOT fully enclose the playground.
+
+Instead create a decorative boundary using:
+
+600 mm tall hedges.
+
+Open entrance paths.
+
+Flower beds.
+
+---
+
+# BENCHES
+
+Install benches around the perimeter.
+
+Minimum:
+
+Eight benches.
+
+Orientation:
+Facing play equipment.
+
+Spacing:
+Evenly distributed.
+
+Material:
+
+Natural oak.
+
+Black cast iron frame.
+
+---
+
+# PARENT SEATING PLAZA
+
+Create a small paved seating area near the playground entrance.
+
+Dimensions:
+
+6 × 5 meters.
+
+Surface:
+
+Light gray concrete pavers.
+
+Contains:
+
+Four benches.
+
+Two picnic tables.
+
+Drinking fountain.
+
+Waste bin.
+
+---
+
+# DRINKING FOUNTAIN
+
+Install one accessible drinking fountain.
+
+Height:
+
+900 mm.
+
+Material:
+
+Brushed stainless steel.
+
+Located beside seating plaza.
+
+---
+
+# WASTE BINS
+
+Install decorative waste bins.
+
+Material:
+
+Black powder-coated steel.
+
+One every 10 meters.
+
+---
+
+# LIGHTING
+
+Place decorative park lights around the playground perimeter.
+
+Height:
+
+3 meters.
+
+Warm white LED.
+
+Even illumination.
+
+Avoid direct glare.
+
+---
+
+# LANDSCAPING
+
+Surround the playground with lush planting.
+
+Include:
+
+Low hedges.
+
+Lavender.
+
+White roses.
+
+Marigolds.
+
+Purple salvia.
+
+Decorative grasses.
+
+Keep plants below **700 mm** in height for visibility.
+
+---
+
+# TREES
+
+Plant medium-sized shade trees around the outside perimeter.
+
+Species:
+
+Maple
+
+Jacaranda
+
+Cherry Blossom
+
+Spacing:
+
+7 meters.
+
+Height:
+
+6–8 meters.
+
+Canopy:
+
+Rounded.
+
+Do not allow branches to overhang slides.
+
+---
+
+# SAFETY CLEARANCES
+
+Maintain minimum free space:
+
+Slides:
+2 meters.
+
+Swings:
+2.5 meters.
+
+Monkey Bars:
+2 meters.
+
+Spring Riders:
+1.5 meters.
+
+Spinner:
+2 meters.
+
+No equipment should overlap another safety zone.
+
+---
+
+# COLORS
+
+Support Columns:
+Royal Blue.
+
+Slides:
+Bright Red.
+
+Roof:
+Pink.
+
+Roof Cap:
+Blue.
+
+Flag:
+Yellow.
+
+Monkey Bars:
+Yellow.
+
+Ladder:
+Blue + Yellow.
+
+Climbing Holds:
+Red, Blue, Green, Yellow.
+
+Safety Flooring:
+Blue, Green, Yellow, Orange.
+
+Benches:
+Natural Wood.
+
+Trees:
+Deep Green.
+
+Flower Beds:
+Pink, White, Purple, Yellow.
+
+---
+
+# MATERIALS
+
+Steel:
+Powder-coated galvanized steel.
+
+Plastic:
+UV-resistant HDPE.
+
+Floor:
+EPDM Rubber.
+
+Deck:
+Composite anti-slip planks.
+
+Bolts:
+Stainless steel.
+
+Wood:
+Treated hardwood.
+
+Concrete:
+Light gray exposed finish.
+
+---
+
+# MODELING RULES
+
+* Keep all equipment as separate Blender objects for easy editing.
+* Apply realistic bevels to all exposed edges (3–10 mm depending on part size).
+* Use smooth shading on curved components and auto-smooth where appropriate.
+* Ensure no geometry intersections between equipment, flooring, or landscaping.
+* Name objects consistently (e.g., `PlayTower_Main`, `Slide_Primary`, `MonkeyBars_01`, `SwingSet_A`, `SpringRider_Horse`, `Bench_Playground_01`).
+* Maintain child-safe rounded corners on all interactive elements.
+* Leave sufficient circulation space between play structures for pedestrians and maintenance access.
+
+---
+
+**End of Part 2.**
+
+In **Part 3**, we'll cover the **central fountain plaza, gazebo, open lawns, secondary walkways, seating areas, and surrounding landscape**, with the same level of detail to complete the core of the park.

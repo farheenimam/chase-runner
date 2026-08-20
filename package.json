@@ -1,0 +1,22 @@
+{
+  "name": "rang-chase",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc --noEmit && vite build",
+    "preview": "vite preview",
+    "build:char": "blender -b -P scripts/build_character.py -- characters/mixamo_out public/models/character_a.glb 1.20",
+    "smoke": "node scripts/shot.mjs http://localhost:5173/ shot.png"
+  },
+  "dependencies": {
+    "three": "^0.180.0",
+    "three-mesh-bvh": "^0.9.14"
+  },
+  "devDependencies": {
+    "@types/three": "^0.180.0",
+    "typescript": "^5.6.3",
+    "vite": "^5.4.10"
+  }
+}

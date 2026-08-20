@@ -1,0 +1,758 @@
+# **GREEN VALLEY PARK – BLENDER ENVIRONMENT GENERATION PROMPT**
+
+# **PART 4 — LANDSCAPING, PARK FURNITURE, LIGHTING, SIGNAGE, MATERIALS, ENVIRONMENT, BLENDER HIERARCHY & FINAL RENDERING**
+
+---
+
+# LANDSCAPE PHILOSOPHY
+
+The landscaping should create the feeling of a mature, professionally maintained municipal park. Every planted area must have a purpose. Trees provide shade, shrubs define circulation, flower beds create focal points, and open lawns remain uncluttered. Avoid randomly scattering vegetation. Every planting group should be organized into layers: ground cover, shrubs, flowering plants, and canopy trees.
+
+The entire park should feel lush but not overcrowded.
+
+---
+
+# TREE MASTER PLAN
+
+Approximately **70–85 trees** should be distributed throughout the park.
+
+### Tree Categories
+
+* Large Shade Trees
+* Ornamental Flowering Trees
+* Accent Trees
+* Evergreen Trees
+
+---
+
+## Large Shade Trees
+
+Located around the jogging track and lawn edges.
+
+Species:
+
+* Red Maple
+* Live Oak
+* London Plane
+* Elm
+
+Height:
+8–12 meters.
+
+Canopy Diameter:
+5–7 meters.
+
+Trunk Diameter:
+350–500 mm.
+
+Spacing:
+7–8 meters center-to-center.
+
+Each tree should sit inside a **1.2-meter diameter circular mulch bed** bordered with natural stone edging.
+
+---
+
+## Flowering Trees
+
+Place around the fountain, gazebo, and entrance.
+
+Species:
+
+* Cherry Blossom
+* Jacaranda
+* Crape Myrtle
+
+Height:
+5–7 meters.
+
+Canopy:
+4–5 meters.
+
+Flower Colors:
+
+* Pink
+* White
+* Purple
+
+Alternate flowering species to avoid repetition.
+
+---
+
+## Evergreen Trees
+
+Use as vertical accents near the corners and entrance.
+
+Species:
+
+* Italian Cypress
+* Blue Spruce
+
+Height:
+6–8 meters.
+
+Spacing:
+4–5 meters.
+
+These should create visual anchors without blocking sightlines.
+
+---
+
+# SHRUB LAYOUT
+
+Use shrubs to define spaces and soften hard edges.
+
+Species:
+
+* Boxwood
+* Indian Hawthorn
+* Dwarf Ixora
+* Viburnum
+
+Height:
+400–800 mm.
+
+Arrange in flowing masses rather than straight rows.
+
+Maintain a 500 mm offset from paths.
+
+---
+
+# FLOWER BED DESIGN
+
+Create curved planting beds throughout the park.
+
+Border every flower bed with **100 mm thick natural granite edging**.
+
+Layer planting from front to back:
+
+Front:
+
+* Alyssum
+* Marigold
+
+Middle:
+
+* Lavender
+* Salvia
+* Begonia
+
+Rear:
+
+* Roses
+* Hydrangea
+
+Maintain seasonal color variation.
+
+---
+
+# GROUND COVER
+
+Between shrubs install:
+
+* Creeping Thyme
+* Irish Moss
+* Dwarf Liriope
+
+Ground cover should eliminate exposed soil wherever possible.
+
+---
+
+# DECORATIVE BOULDERS
+
+Place groups of natural boulders near planting beds.
+
+Material:
+Light gray granite.
+
+Diameter:
+400–900 mm.
+
+Arrange in groups of three or five.
+
+Never place isolated boulders.
+
+---
+
+# BENCH LIBRARY
+
+Total benches:
+Approximately **28–32 benches**.
+
+### Bench Design
+
+Length:
+1.8 meters.
+
+Depth:
+650 mm.
+
+Seat Height:
+450 mm.
+
+Backrest Height:
+850 mm.
+
+Material:
+Natural oak slats.
+
+Frame:
+Cast iron.
+
+Color:
+Matte black.
+
+---
+
+### Bench Placement
+
+* Fountain Plaza: 8
+* Playground: 8
+* Gazebo Area: 6
+* Entrance Plaza: 4
+* Jogging Track: 6
+
+Maintain clear pedestrian circulation around every bench.
+
+---
+
+# PICNIC TABLES
+
+Construct heavy-duty wooden picnic tables.
+
+Dimensions:
+
+Length:
+2 meters.
+
+Width:
+1.6 meters.
+
+Material:
+Pressure-treated timber.
+
+Place:
+Near gazebo lawn.
+
+Total:
+3–4 tables.
+
+---
+
+# WASTE BINS
+
+Install decorative park bins.
+
+Height:
+1 meter.
+
+Diameter:
+450 mm.
+
+Material:
+Black powder-coated steel.
+
+Capacity:
+60 liters.
+
+Placement:
+Every 20 meters along paths.
+
+---
+
+# DRINKING FOUNTAINS
+
+Install three drinking fountains.
+
+Locations:
+
+Entrance.
+
+Playground.
+
+Gazebo.
+
+Material:
+Brushed stainless steel.
+
+Accessible height:
+900 mm.
+
+---
+
+# INFORMATION SIGNAGE
+
+Create elegant park signage.
+
+---
+
+## Main Park Map
+
+Position:
+Entrance Plaza.
+
+Dimensions:
+2 × 1.2 meters.
+
+Material:
+Bronze frame.
+
+Glass cover.
+
+Display:
+
+* Park map
+* Walking routes
+* Emergency exits
+* Rules
+* "You Are Here"
+
+---
+
+## Directional Signs
+
+Install throughout the park.
+
+Arrow signs toward:
+
+* Playground
+* Gazebo
+* Fountain
+* Exit
+
+Material:
+Powder-coated steel.
+
+Height:
+1.4 meters.
+
+---
+
+# LIGHTING MASTER PLAN
+
+Lighting should create safe nighttime visibility while highlighting architectural features.
+
+Total fixtures:
+Approximately **45–55 lights**.
+
+---
+
+## Victorian Lamp Posts
+
+Height:
+3.8 meters.
+
+Material:
+Cast iron.
+
+Color:
+Matte black.
+
+Glass:
+Clear.
+
+Light Temperature:
+3000K.
+
+Spacing:
+12 meters.
+
+---
+
+## Ground Spotlights
+
+Install around:
+
+Fountain.
+
+Gazebo.
+
+Entrance Gate.
+
+Trees.
+
+Material:
+Stainless steel.
+
+Flush with paving.
+
+---
+
+## Tree Uplights
+
+One recessed spotlight beneath every feature tree.
+
+Beam:
+30 degrees.
+
+Warm white.
+
+---
+
+## Path Lighting
+
+Install bollard lights along secondary paths.
+
+Height:
+900 mm.
+
+Spacing:
+6 meters.
+
+Material:
+Dark bronze.
+
+---
+
+# IRRIGATION SYSTEM
+
+Design concealed irrigation.
+
+Components:
+
+Pop-up sprinklers in lawns.
+
+Drip irrigation in flower beds.
+
+Underground piping.
+
+Valve boxes.
+
+No irrigation equipment should remain visible.
+
+---
+
+# DRAINAGE
+
+All paved areas slope gently toward concealed drainage channels.
+
+Slope:
+1%.
+
+Install grated drains near:
+
+Entrance.
+
+Fountain.
+
+Gazebo.
+
+Playground.
+
+---
+
+# ENVIRONMENT DETAILS
+
+Create a lively public environment.
+
+Include:
+
+* Families walking
+* Children playing
+* Joggers
+* Cyclists
+* Elderly visitors sitting
+* Parents near playground
+
+Do not overcrowd the park.
+
+---
+
+# BIRDS & WILDLIFE
+
+Optional small details:
+
+* Birds near fountain
+* Butterflies around flowers
+* Squirrels near trees
+
+Use sparingly.
+
+---
+
+# MATERIAL LIBRARY
+
+## Grass
+
+Material:
+High-resolution PBR lawn.
+
+Roughness:
+0.8
+
+Normal strength:
+Moderate.
+
+---
+
+## Granite
+
+Used for:
+
+Walkways.
+
+Plaza.
+
+Edging.
+
+Light gray with subtle grain.
+
+---
+
+## Limestone
+
+Used for:
+
+Fountain.
+
+Entrance pillars.
+
+Warm cream tone.
+
+---
+
+## Wood
+
+Used for:
+
+Benches.
+
+Gazebo.
+
+Picnic tables.
+
+Dark walnut finish.
+
+Visible grain.
+
+---
+
+## Steel
+
+Fence.
+
+Lamp posts.
+
+Gate.
+
+Railings.
+
+Matte black powder coating.
+
+---
+
+## Playground Plastic
+
+HDPE.
+
+Bright saturated colors.
+
+Slight satin finish.
+
+---
+
+## Rubber Flooring
+
+Fine EPDM texture.
+
+Soft matte appearance.
+
+---
+
+# COLOR PALETTE
+
+Primary Colors:
+
+Grass:
+Rich Green.
+
+Fence:
+Matte Black.
+
+Stone:
+Warm Cream.
+
+Walkways:
+Light Gray.
+
+Roof:
+Dark Brown.
+
+Water:
+Clear Blue.
+
+Wood:
+Dark Walnut.
+
+Flowers:
+Pink, Purple, White, Yellow, Red.
+
+Play Equipment:
+Blue, Red, Yellow, Pink.
+
+---
+
+# BLENDER COLLECTION STRUCTURE
+
+Organize the project into collections:
+
+```
+Environment
+│
+├── Terrain
+├── Roads
+├── Curbs
+├── Sidewalks
+├── Fence
+├── Entrance Gate
+├── Fountain
+├── Gazebo
+├── Playground
+├── Jogging Track
+├── Lawns
+├── Trees
+├── Shrubs
+├── Flower Beds
+├── Benches
+├── Picnic Tables
+├── Lamp Posts
+├── Signage
+├── Waste Bins
+├── Drinking Fountains
+├── Decorative Rocks
+├── Irrigation
+├── Drainage
+├── Vehicles (if exterior shown)
+├── Characters
+└── Lighting
+```
+
+---
+
+# OBJECT NAMING CONVENTION
+
+Examples:
+
+```
+Tree_Maple_001
+
+Tree_Cherry_001
+
+Bench_Entrance_01
+
+Bench_Fountain_03
+
+Lamp_Main_001
+
+Fence_Panel_012
+
+Fence_Column_020
+
+Gate_Main
+
+Fountain_Basin
+
+Fountain_Tier01
+
+Gazebo_Main
+
+Gazebo_Roof
+
+PlayTower_Main
+
+Slide_Red_Main
+
+MonkeyBars_01
+
+Shrub_Boxwood_015
+
+FlowerBed_Entrance_01
+
+Sign_ParkMap
+
+WasteBin_03
+```
+
+Maintain consistent prefixes for easy scene management.
+
+---
+
+# MODELING RULES
+
+* Use real-world scale throughout.
+* Apply bevel modifiers to all hard edges.
+* Avoid overlapping geometry.
+* Keep topology clean and quad-based where possible.
+* Use instancing for repeated assets (trees, benches, lamp posts, fence panels).
+* Maintain proper pivot points at the base center of each object.
+* Apply transforms before exporting.
+* Separate static and movable assets into different collections.
+* Use high-quality PBR materials with consistent texel density.
+* Maintain realistic proportions and construction logic for every structure.
+
+---
+
+# FINAL CAMERA SETUP
+
+Primary Camera:
+
+Type:
+Perspective.
+
+Lens:
+35 mm.
+
+Height:
+28 meters above ground.
+
+Rotation:
+45° downward.
+
+Yaw:
+45° isometric view.
+
+Capture the entire park from above, showing the entrance, central promenade, fountain, playground, gazebo, lawns, and jogging track in a single balanced composition.
+
+---
+
+# SECONDARY CAMERAS
+
+Create additional cameras for:
+
+* Entrance Gate Hero Shot
+* Fountain Close-Up
+* Playground Perspective
+* Gazebo Interior
+* Jogging Track View
+* Lawn Picnic Area
+* Bird's-Eye Master Plan
+
+---
+
+# RENDER SETTINGS
+
+Render Engine:
+Cycles.
+
+Resolution:
+3840 × 2160 (4K).
+
+Samples:
+512–1024.
+
+Denoiser:
+OpenImageDenoise.
+
+Color Management:
+Filmic.
+
+Look:
+Medium High Contrast.
+
+Environment:
+Clear blue sky HDRI with a realistic midday sun at approximately 45° elevation to produce clean, even illumination without harsh shadows.
+
+---
+
+# FINAL ENVIRONMENT GOAL
+
+The completed scene should feel like a **real, buildable municipal park** rather than a fantasy environment. Every path, tree, bench, structure, and planting bed should have a logical purpose and placement. The composition should guide visitors naturally from the entrance through the central promenade to the fountain, while the playground, gazebo, open lawns, and jogging track provide balanced spaces for recreation, relaxation, and community use. The overall aesthetic should be elegant, highly organized, richly landscaped, and suitable for presentation as a professional architectural visualization or Blender environment.
