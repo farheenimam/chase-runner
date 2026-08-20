@@ -126,6 +126,9 @@ export function applyPalette(root: Object3D, tileColourOf?: (o: Object3D) => str
       if (!src) return;
       const own = src.clone();
       own.color = new Color(colourForMaterial(`Tile_${tileColour}`));
+      if (!new Box3().setFromObject(mesh).intersectsBox(PARK_BOUNDS)) {
+        own.color.multiplyScalar(OUTSIDE_PARK_BRIGHTNESS);
+      }
       own.roughness = 0.85;
       own.metalness = 0;
       mesh.material = own;

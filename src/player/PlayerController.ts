@@ -19,7 +19,7 @@ export const MOVE = {
   reverseAccel: 70,
   gravity: -14,
   jumpSpeed: 5.8,
-  doubleJumpSpeed: 9.8,
+  doubleJumpSpeed: 12.0,
   turnRate: 12,
   /** Capsule fitted to the character; radius keeps it clear of kerbs. */
   radius: 0.22,

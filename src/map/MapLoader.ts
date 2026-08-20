@@ -1,6 +1,7 @@
 import {
   Box3,
   BufferGeometry,
+  BoxGeometry,
   Group,
   Mesh,
   MeshStandardMaterial,
@@ -77,16 +78,61 @@ function resolve(obj: Object3D) {
 }
 
 /**
- * Solid, non-walk-through geometry. Tiles are included because runners stand
- * on them; props are not, so the map does not feel like an obstacle course.
+ * Solid, non-walk-through geometry. Tiles and props are included so cars,
+ * building edges, and other solid map objects block movement.
  */
 const COLLIDES: ReadonlySet<MapRole> = new Set<MapRole>([
   "Tile",
+  "Prop",
   "Building",
   "Ground",
   "Road",
   "Collider",
 ]);
+
+const WATER_MATERIAL = /water|foam/i;
+const TERRACE_MATERIAL = /roof|terrace|penthouse|pergola|louvre/i;
+const MAP_BOUNDS = {
+  minX: -190,
+  maxX: 210,
+  minZ: -180,
+  maxZ: 300,
+};
+
+function isPassableMesh(mesh: Mesh) {
+  const materials = Array.isArray(mesh.material) ? mesh.material : [mesh.material];
+  const names = materials
+    .filter((m): m is MeshStandardMaterial => !!m)
+    .map((m) => m.name);
+  return names.length > 0 && names.every((name) => WATER_MATERIAL.test(name));
+}
+
+function isTerraceMesh(mesh: Mesh) {
+  const materials = Array.isArray(mesh.material) ? mesh.material : [mesh.material];
+  return materials.some((material) => material && TERRACE_MATERIAL.test(material.name));
+}
+
+function addBoundaryWalls(geometries: BufferGeometry[]) {
+  const wallHeight = 30;
+  const wallThickness = 2;
+  const width = MAP_BOUNDS.maxX - MAP_BOUNDS.minX + wallThickness * 2;
+  const depth = MAP_BOUNDS.maxZ - MAP_BOUNDS.minZ + wallThickness * 2;
+  const centreX = (MAP_BOUNDS.minX + MAP_BOUNDS.maxX) / 2;
+  const centreZ = (MAP_BOUNDS.minZ + MAP_BOUNDS.maxZ) / 2;
+  const walls = [
+    [new BoxGeometry(wallThickness, wallHeight, depth), MAP_BOUNDS.minX - wallThickness / 2, wallHeight / 2, centreZ],
+    [new BoxGeometry(wallThickness, wallHeight, depth), MAP_BOUNDS.maxX + wallThickness / 2, wallHeight / 2, centreZ],
+    [new BoxGeometry(width, wallHeight, wallThickness), centreX, wallHeight / 2, MAP_BOUNDS.minZ - wallThickness / 2],
+    [new BoxGeometry(width, wallHeight, wallThickness), centreX, wallHeight / 2, MAP_BOUNDS.maxZ + wallThickness / 2],
+  ] as const;
+  for (const [geometry, x, y, z] of walls) {
+    geometry.translate(x, y, z);
+    for (const attr of Object.keys(geometry.attributes)) {
+      if (attr !== "position") geometry.deleteAttribute(attr);
+    }
+    geometries.push(geometry);
+  }
+}
 
 export async function loadMap(
   url = "/models/map.glb",
@@ -94,6 +140,14 @@ export async function loadMap(
 ): Promise<GameMap> {
   const gltf = await loadGLTF(url, onProgress);
   const scene = gltf.scene as Group;
+
+  // This is a decorative character prop baked into the map, not the player.
+  // Remove every matching instance before gameplay data and collision are built.
+  const runnerProps: Object3D[] = [];
+  scene.traverse((obj) => {
+    if (/^Prop_Runner(?:_|$)/i.test(obj.name)) runnerProps.push(obj);
+  });
+  for (const prop of runnerProps) prop.parent?.remove(prop);
 
   const tiles: TileRef[] = [];
   const spawns: SpawnRef[] = [];
@@ -136,7 +190,13 @@ export async function loadMap(
     if (!(obj as Mesh).isMesh) return;
     const mesh = obj as Mesh;
     const info = resolve(mesh);
-    if (info && COLLIDES.has(info.role)) {
+    const terrace = isTerraceMesh(mesh);
+    if (
+      info &&
+      (COLLIDES.has(info.role) || terrace) &&
+      info.kind !== "TreeShadow" &&
+      !isPassableMesh(mesh)
+    ) {
       // Bake the world transform in — the merged mesh sits at the origin.
       const g = mesh.geometry.clone();
       g.applyMatrix4(mesh.matrixWorld);
@@ -147,6 +207,8 @@ export async function loadMap(
       collisionGeoms.push(g);
     }
   });
+
+  addBoundaryWalls(collisionGeoms);
 
   if (unmatched.length) {
     console.warn(
