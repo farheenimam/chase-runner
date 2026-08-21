@@ -72,7 +72,7 @@ RULES = [
     (r"^(Sail_|ShadeSail_)",                         "Prop_ShadeSail"),
     (r"^Car_",                                       "Prop_Car"),
     (r"^Bus_",                                       "Prop_Bus"),
-    (r"^Runner_",                                    "Prop_Runner"),
+    # Runner_* objects are static map decorations, not the movable player.
     (r"^(Bush|LandscapeBed|PathBush|FountainBorderBush|Hedge)", "Prop_Shrub"),
     (r"^(Amph_Planter|Amph_TopPlanter|Bldg_.*Planter)", "Prop_Planter"),
 
@@ -109,7 +109,11 @@ RULES = [
 
 # Non-rendering helper geometry: bevel profile curves that only shape other
 # objects. They must never reach the .glb.
-EXCLUDE = (r"^(ArchProfile|BannerBackingProfile)$",)
+EXCLUDE = (
+    r"^(ArchProfile|BannerBackingProfile)$",
+    r"^Runner_",  # static runner figure near the park fountain path
+    r"^Chaser_",
+)
 
 def is_excluded(name):
     return any(re.match(p, name) for p in EXCLUDE)

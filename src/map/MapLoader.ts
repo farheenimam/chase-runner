@@ -141,13 +141,23 @@ export async function loadMap(
   const gltf = await loadGLTF(url, onProgress);
   const scene = gltf.scene as Group;
 
-  // This is a decorative character prop baked into the map, not the player.
-  // Remove every matching instance before gameplay data and collision are built.
-  const runnerProps: Object3D[] = [];
+  // Character props are not map geometry. Remove each parent before its child
+  // meshes are traversed, including baked faces, hair, and eyes.
+  const characterProps: Object3D[] = [];
   scene.traverse((obj) => {
-    if (/^Prop_Runner(?:_|$)/i.test(obj.name)) runnerProps.push(obj);
+    const name = obj.name;
+    if (
+      /^Prop_(?:Runner|Chaser|Character|Human|Humanoid)(?:_|$)/i.test(name) ||
+      /^(?:Runner|Chaser|Character|Human|Humanoid)_(?:Body|Face|Hair|Eye|Eyes|Head)(?:_|$)/i.test(name) ||
+      /^Girl_Smirk(?:_|$)/i.test(name) ||
+      /^GirlChar(?:_|$)/i.test(name) ||
+      /^BoyChar(?:_|$)/i.test(name) ||
+      /^(?:Girl|Boy)(?:[-_]?)(?:Smirk|Shocked)(?:_|$)/i.test(name)
+    ) {
+      characterProps.push(obj);
+    }
   });
-  for (const prop of runnerProps) prop.parent?.remove(prop);
+  for (const prop of characterProps) prop.parent?.remove(prop);
 
   const tiles: TileRef[] = [];
   const spawns: SpawnRef[] = [];
