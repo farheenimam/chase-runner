@@ -2,8 +2,8 @@ name: Daily Commit
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # runs every day at 00:00 UTC
-  workflow_dispatch:      # lets you trigger it manually from Actions tab
+    - cron: '0 0 * * *'
+  workflow_dispatch:
 
 jobs:
   commit:
@@ -16,15 +16,17 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Update log file
-        run: |
-          mkdir -p .github/daily-log
-          echo "Commit on $(date -u +'%Y-%m-%d %H:%M:%S UTC')" >> .github/daily-log/log.md
-
-      - name: Commit and push
+      - name: Make random commits
         run: |
           git config user.name "Farheen Imam"
           git config user.email "115992935+farheenimam@users.noreply.github.com"
-          git add .github/daily-log/log.md
-          git commit -m "chore: daily commit $(date -u +'%Y-%m-%d')" || exit 0
+          mkdir -p .github/daily-log
+          COUNT=$((RANDOM % 6 + 1))
+          echo "Making $COUNT commits"
+          for i in $(seq 1 $COUNT); do
+            echo "Commit $i on $(date -u +'%Y-%m-%d %H:%M:%S UTC')" >> .github/daily-log/log.md
+            git add .github/daily-log/log.md
+            git commit -m "chore: daily log $(date -u +'%Y-%m-%d') #$i"
+            sleep 1
+          done
           git push
